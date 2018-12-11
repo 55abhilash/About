@@ -1,0 +1,52 @@
+body{
+
+}
+h1 {
+<<<<<<< HEAD
+  color: #D489AA;
+=======
+  color: grey;
+>>>>>>> 07ffe0e6489cc605cca0308a1f7ff3cbddae52db
+  font-family: 'Exo';
+  font-weight: bolder;
+  font-style: italic;
+  font-size: 150;
+
+}
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+button {
+  font-family: 'Exo';
+  size: 100;
+}
+body {
+  background: #466368;
+  background: -webkit-linear-gradient(#ffc3a0, #ffafbd);
+  background:    -moz-linear-gradient(#ffc3a0, #ffafbd);
+  background:         linear-gradient(#ffc3a0, #ffafbd);
+  border-radius: 6px;
+   height: 100%;
+ }
+<<<<<<< HEAD
+ img.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+button {
+  background-color: #E33682
+  border: 2px solid red;
+  color: pink;
+  padding: 32px 16px;
+  text-align: center;
+  border-radius: 50%;
+  text-decoration: none;
+  display: center;
+  font-size: 24px;
+}
+content {
+  line-height: 40px;
+  position:absolute;
+}
+
+=======
+>>>>>>> 07ffe0e6489cc605cca0308a1f7ff3cbddae52db

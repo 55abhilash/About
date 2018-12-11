@@ -1,0 +1,17 @@
+body{
+background: #5D5151
+ font-family: 'Exo', sans-serif;{
+}
+h1 {
+  color: pink;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+list{
+  line-height: 40px;
+  position:absolute;
+}
